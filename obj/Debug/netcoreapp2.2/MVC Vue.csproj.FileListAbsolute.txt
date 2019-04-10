@@ -1,0 +1,31 @@
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/MVC Vue.csprojAssemblyReference.cache
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/MVC Vue.csproj.CoreCompileInputs.cache
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/MVC Vue.RazorAssemblyInfo.cache
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/MVC Vue.RazorAssemblyInfo.cs
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/MVC Vue.AssemblyInfoInputs.cache
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/MVC Vue.AssemblyInfo.cs
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/MVC Vue.TagHelpers.input.cache
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/MVC Vue.TagHelpers.output.cache
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/MVC Vue.RazorCoreGenerate.cache
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/Razor/Views/ProvinceLookup/Index.g.cshtml.cs
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/MVC Vue.RazorTargetAssemblyInfo.cache
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/MVC Vue.RazorTargetAssemblyInfo.cs
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/MVC Vue.dll
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/MVC Vue.pdb
+/home/sinisa/Documents/Coding/MVC Vue/bin/Debug/netcoreapp2.2/MVC Vue.deps.json
+/home/sinisa/Documents/Coding/MVC Vue/bin/Debug/netcoreapp2.2/MVC Vue.runtimeconfig.json
+/home/sinisa/Documents/Coding/MVC Vue/bin/Debug/netcoreapp2.2/MVC Vue.runtimeconfig.dev.json
+/home/sinisa/Documents/Coding/MVC Vue/bin/Debug/netcoreapp2.2/MVC Vue.dll
+/home/sinisa/Documents/Coding/MVC Vue/bin/Debug/netcoreapp2.2/MVC Vue.pdb
+/home/sinisa/Documents/Coding/MVC Vue/bin/Debug/netcoreapp2.2/MVC Vue.Views.dll
+/home/sinisa/Documents/Coding/MVC Vue/bin/Debug/netcoreapp2.2/MVC Vue.Views.pdb
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/MVC Vue.Views.pdb
+/home/sinisa/Documents/Coding/MVC Vue/obj/Debug/netcoreapp2.2/MVC Vue.csproj.CopyComplete
