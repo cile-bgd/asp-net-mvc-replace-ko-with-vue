@@ -42,12 +42,9 @@
 
 @section scripts {
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-    <script
-			  src="https://code.jquery.com/jquery-3.3.1.min.js"
-			  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-			  crossorigin="anonymous"></script>
-
-    <script type="text/javascript">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.0/dist/jquery.min.js"></script>
+    
+    <script>
         var app = new Vue({
             el: '#vueApp',
             data: {
@@ -62,11 +59,15 @@
             },
             methods: {
                 countryChanged: function () {
-                    this.isProvincesLoading = true;
-                    $.getJSON('@Url.Action("Provinces", "ProvinceLookup")?countryCode=' + this.selectedCountryCode, function (data) {
+                    const url = `@Url.Action("Provinces", "ProvinceLookup")?countryCode=${this.selectedCountryCode}`;
+                    this.isProvincesLoading = true;                    
+                    // start ajax get request
+                    $.getJSON(url, function (data) {
                         this.provinces = data;
                         this.isProvincesLoading = false;
                     }.bind(this));
+                    // end ajax get request
+                    this.isProvincesLoading = false;
                 }
             }
         });
